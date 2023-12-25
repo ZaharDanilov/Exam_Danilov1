@@ -1,0 +1,15 @@
+:root {
+    --newstyle: rgba(163, 85, 85, 1);
+    --blue: rgba(0, 0, 0, 1);
+    ---font-family: "Capriola-Regular", Helvetica;
+    ---font-weight: 400;
+    ---font-size: 12px;
+    ---letter-spacing: 0px;
+    ---line-height: normal;
+    ---font-style: normal;
+    --variable-collection-greytext: rgb(255, 0, 0);
+    --variable-collection: rgba(0, 0, 0, 1);
+    --variable-collection-a: rgba(235, 236, 241, 1);
+    --variable-collection-a-hz: rgba(214, 224, 240, 1);
+  }
+  
